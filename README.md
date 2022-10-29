@@ -1,46 +1,28 @@
-# Health insurance loss during COVID-19 increases support for Universal Health Coverage
+# Mistrust in Public Health Institutions is a Stronger Predictor of Vaccine Hesitancy and Uptake than Trust in Trump
 
-This repository provides the data and code that supports the findings of a study "Health insurance loss during COVID-19 increases support for Universal Health Coverage" published at Journal of Health Politics, Policy and Law (JHPPL). The study is based on a survey on health care access during the COVID-19 pandemic conducted in June 2020. The aim of this survey was to examine how different ways of presenting information about universal health coverage during the COVID-19 pandemic affects people’s attitudes about moving the predominately private US health system in the direction of public health insurance coverage and investigate people's attitudes related to the COVID-19 issue. The survey includes the following sections: message framing experiment, health reform, COVID-19 stimulus, policy response, personal response, personal worry about COVID-19, media, mental health, impact of COVID-19 on child/eldery care, ideology, cultural cognition, rumors, and democraphic questions..
+This repository provides code that supports the findings of a study titled: "*Mistrust in Public Health Institutions is a Stronger Predictor of Vaccine Hesitancy and Uptake than Trust in Trump*" published at Social Science & Medicine.
 
-## Survey Information
+## Data
 
-* Time Period: Jun. 3. 2020 - Jun. 8. 2020
-* Sample Information
-  * Size: 1,211
-  * Ages 18 or higher
-  * Area: United States
-* Survey Platform: Qualtrics Online survey
+* Data source: [Understanding America Study Project](https://uasdata.usc.edu/index.php)
+  * COVID-19 Panel
+    - Waves: 21st - 29th (December 23rd, 2020 - July 21st, 2021)
+    - Sample size: 37,761 reponses from 5,446 respondents (39,521 responses from 5,579 respondents before data cleaning)
+  * Politics Panel
+    - Waves: 212, 221, 331, and 335 (December 13th, 2019 - April 30th, 2021)
+    - Sample size: 37,478 reponses (37,761 responses before data cleaning)
 
-## What's Included
-
-### Data
-
-* **Rawdata.csv**: The raw data.
-* **Varlist.csv**: The list of the variables included in the data file.
-* **Questionnaires.pdf**: The full PDf version of the survey.
-
-### Project Folders
-
-* **01. M4A Study**: Health insurance loss during COVID-19 increases support for Universal Health Coverage
-	* Authors: Ashley M. Fox, Yongjin Choi, Heather Lanthorn, and Kevin Croke
-
-## Funding
-
-Faculty Research Award Program - category B (FRAP-B), University at Albany, State University of New York
+### STATA Code: SSM_Trust_Hesitancy.md
 
 ## Contact Us
 
 If you have questions regarding the data or the studies presented on this page, please contact at:
 
-[afox3@albany.edu](afox3@albany.edu) or [ychoi2@albany.edu](ychoi2@albany.edu)
+[yongjin.choi@vaccineconfidence.org](yongjin.choi@vaccineconfidence.org) or [afox3@albany.edu](afox3@albany.edu)
 
 
 ## Contributors
 
-Principal Investigator: [@Ashley Fox](https://twitter.com/ashfoxly)
+Principal Investigator: [@Yongjin Choi](https://twitter.com/TheYongjinChoi)
 
-[@Heather Lanthorn](https://twitter.com/hlanthorn)
-
-[@Kevin Croke](https://twitter.com/jkcroke1)
-
-[@Yongjin Choi](https://twitter.com/TheYongjinChoi)
+[@Ashley Fox](https://twitter.com/ashfoxly)
