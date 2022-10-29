@@ -25,6 +25,6 @@ If you have questions regarding the data or the studies presented on this page, 
 
 ## Contributors
 
-Principal Investigator: [@Yongjin Choi](https://twitter.com/TheYongjinChoi)
+Principal Investigator: [@Yongjin Choi](https://twitter.com/TheYongjinChoi) (Vaccine Confidence Project, London School of Hygiene and Tropical Medicine)
 
-[@Ashley Fox](https://twitter.com/ashfoxly)
+[@Ashley Fox](https://twitter.com/ashfoxly) (University at Albany, State University of New York)
