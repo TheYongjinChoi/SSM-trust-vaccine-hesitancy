@@ -12,7 +12,9 @@ This repository provides code that supports the findings of a study titled: "*Mi
     - Waves: 212, 221, 331, and 335 (December 13th, 2019 - April 30th, 2021)
     - Sample size: 37,478 reponses (37,761 responses before data cleaning)
 
-### STATA Code: SSM_Trust_Hesitancy.md
+### STATA Code
+
+  * SSM_Trust_Hesitancy.md
 
 ## Contact Us
 
