@@ -10,7 +10,7 @@ This repository provides code that supports the findings of a study titled: "*Mi
     - Sample size: 37,761 reponses from 5,446 respondents (39,521 responses from 5,579 respondents before data cleaning)
   * Politics Panel
     - Waves: 212, 221, 331, and 335 (December 13th, 2019 - April 30th, 2021)
-    - Sample size: 37,478 reponses (37,761 responses before data cleaning)
+    - Sample size: 27,936 reponses from 8,791 respondents
 
 ## STATA Code
 
