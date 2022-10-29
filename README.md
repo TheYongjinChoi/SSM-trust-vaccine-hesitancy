@@ -14,7 +14,7 @@ This repository provides code that supports the findings of a study titled: "*Mi
 
 ## STATA Code
 
-  * SSM_Trust_Hesitancy.md
+  * SSM_VaxHesitancy&Trust_v2.2_20221029.md
 
 ## Contact Us
 
